@@ -84,3 +84,5 @@ if (humanScore > computerScore) {
          console.log(`The same points!`)
 }
 };
+
+playGame();
